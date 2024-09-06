@@ -10,3 +10,7 @@ img{
 body{
   background-color: #ebaf7d;
 }
+
+button{
+  margin: 5px !important;
+}
